@@ -31,6 +31,16 @@ has flowed through the project.
 EACH person must have a clear understanding of everything in the project.
 Each person should have parts they alone have done, something they've explained to their teammates.
 
+Each team must have single repo, (with NO creds stored anywhere), use the Github tools
+for obvious tracking purposes:
+- Lots of commits on several branches
+- Use of the Issues tab for tracking things being worked on
+- Use a project board to handle group comms on task assignments
+
+_We need this project to be clean and cool and clear about what you can do. Your hiring managers
+will want to look through it and then be prepped to ask you questions about almost anything within
+the project. You should be able to answer those questions._
+
 ## Required stages
 
 - Identify Scope of Project
@@ -46,6 +56,9 @@ Each person should have parts they alone have done, something they've explained 
 - A Model which makes some prediction based on the data
   - a ad-hoc prediction request
   - or other insight into the data
+- Some documentation in the project's README (along with some PNGs of the results)
+- Make it pretty.
+- Add a "slide deck" of project work, overall structure, and status of milestones.
   
   ## Tech choices
   
