@@ -46,6 +46,7 @@ the project. You should be able to answer those questions._
 - Identify Scope of Project
   - Find APIs that could help
   - Find DataSets that might be useful
+- ProjectReadme.md file that gives a good high-level description of project.
 - Each project should have
   - 2 or more piplines that collect data from sources
     - Extra bonus for "streaming api" usage
