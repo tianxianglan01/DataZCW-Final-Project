@@ -24,7 +24,7 @@ capstone project for ZCW Data's course.
 ## Group Size
 
 Each group should 2-4 people. Effort should be mostly
-Data Engineering, but at the end, do some actaul Data Science.
+Data Engineering, but at the end, do some actual Data Science (some machine learning?).
 So a model, or prediction, or something based on the data that
 has flowed through the project.
 
@@ -65,7 +65,7 @@ the project. You should be able to answer those questions._
   
   All tech choices will be approved by instructors. 
   Any tech we've studied is fair game for use.
-  All project must have some **Airflow** portion AND some **Spark** portion somewhere within the project.
+  All project should have some **Spark** portion AND/OR some **Airflow** portion somewhere within the project.
   All projects must have some python scripts, SQL/NoSQL database, and make use of some data visualization outputs and
   kind of dashboard. (You may use any dashboard tech that is cleared with instrutors).
   
